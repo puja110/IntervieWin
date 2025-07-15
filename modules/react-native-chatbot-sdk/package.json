@@ -1,0 +1,14 @@
+{
+  "name": "react-native-chatbot-sdk",
+  "version": "0.0.0",
+  "description": "React Native Chat Bot",
+  "main": "src/index",
+  "codegenConfig": {
+    "name": "ChatbotSdkSpec",
+    "type": "modules",
+    "jsSrcsDir": "src"
+  },
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme"
+}
