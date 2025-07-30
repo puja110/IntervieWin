@@ -1,8 +1,6 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+## IntervieWin
 
-# Getting Started
-
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+InterviewWin is a voice-powered AI mock interview app that helps you practice and improve your interview skills. It asks personalized questions based on your job title or resume, listens to your spoken answers, and gives real-time feedback on your tone, confidence, and clarity - so you can speak better, sound smarter, and win the interview.
 
 ## Step 1: Start Metro
 
@@ -62,36 +60,19 @@ If everything is set up correctly, you should see your new app running in the An
 
 This is one way to run your app — you can also build it directly from Android Studio or Xcode.
 
-## Step 3: Modify your app
+## DEMO
 
-Now that you have successfully run the app, let's make changes!
+<img width="375" height="794" alt="VCss1" src="https://github.com/user-attachments/assets/c6bcad79-00d8-4fd6-b56d-6791b3749136" />
 
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
+<img width="396" height="816" alt="VCss2" src="https://github.com/user-attachments/assets/68915d4d-6d68-42ab-893f-e0c475b4fa04" />
 
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
+<img width="395" height="809" alt="VCss3" src="https://github.com/user-attachments/assets/a1256d44-f06c-42bd-84c5-b5df5dc77bd6" />
 
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
+<img width="393" height="817" alt="VCss4" src="https://github.com/user-attachments/assets/f17e2462-7f46-424c-8f82-05e2ae20f8d4" />
 
-## Congratulations! :tada:
+<img width="390" height="809" alt="VCss5" src="https://github.com/user-attachments/assets/bc6f69dd-c26e-4b72-9f09-701260e7d2e1" />
 
-You've successfully run and modified your React Native App. :partying_face:
+<img width="393" height="805" alt="VCss6" src="https://github.com/user-attachments/assets/c1c49dc9-9f26-42b7-ba18-327d0aa8d388" />
 
-### Now what?
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
 
-# Troubleshooting
-
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
